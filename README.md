@@ -39,7 +39,7 @@ Rédiger des messages de commit conformes aux conventions
 ## 3. Inclue des types comme feat, fix, chore, et rédige des messages descriptifs
 
 - types de commit selon la convention Angular: 
-<img src="./images/types_commit.png" style="image.png" alt="types de commit selon la convention Angular"/>
+<img src="./images/types_commits.png" style="image.png" alt="types de commit selon la convention Angular"/>
 
 
 ## 4. Valide que les messages de commit sont cohérents et faciles à comprendre:
@@ -50,6 +50,7 @@ Rédiger des messages de commit conformes aux conventions
 # EXERCICE 7 
 
 Utiliser commitlint pour vérifier les messages de commit
+
 
 ## 1.Installe commitlint dans un projet existant
 
