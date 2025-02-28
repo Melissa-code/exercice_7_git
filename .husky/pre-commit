@@ -1,0 +1,6 @@
+#! /bin/sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Vérification des messages de commit
+npx --no -- commitlint --edit $1
+
